@@ -14,7 +14,7 @@
     },
     "servers": [
         {
-            "url": "http://spacex.test/api/v1",
+            "url": "https://thawing-ravine-06311.herokuapp.com/api/v1",
             "description": "Demo API Server"
         }
     ],
