@@ -15,12 +15,12 @@
         "zircote/swagger-php": "3.*",
         "fakerphp/faker": "^1.9.1",
         "phpunit/phpunit": "^9.5.10",
-        "mockery/mockery": "^1.4.4"
+        "mockery/mockery": "^1.4.4",
+        "nunomaduro/collision": "^5.10"
     },
     "require-dev": {
         "facade/ignition": "^2.5",
-        "laravel/sail": "^1.0.1",
-        "nunomaduro/collision": "^5.10"
+        "laravel/sail": "^1.0.1"
     },
     "autoload": {
         "psr-4": {
